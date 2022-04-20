@@ -1,0 +1,103 @@
+body{
+  margin: 10px 100px 10px 100px;
+ 
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+#container{
+    display:flex;
+    justify-content:space-around;
+    align-items: center; 
+    font-size: 25px;
+}
+.container2{
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  font-size: 25px;
+  margin-top: 30px;
+}
+
+#Menu{
+  color:darkgrey;
+ 
+  display: flex;
+  
+  align-items: center;
+  gap: 50px 90px;
+
+  font-family: Robot,sans-serif;
+  padding-right: 200px; 
+
+}
+#logo{
+  font-family: Robot,sans-serif;
+  font-size: 30px;
+  color: #506269;
+  padding-left: 140px;
+
+}
+a{
+  text-decoration:none;
+  color: darkgray;
+  font-size: 20px;
+  align-items: flex-end;
+  
+}
+
+.boxTexto h1{
+    font-size: 50px;
+  margin-top: 10px;
+  font-family: Robot,sans-serif;
+  color: #506269;
+  margin-bottom: 0px;
+  margin-left: 5px;
+ 
+}
+.boxTexto small{
+  color: darkgray;
+    font-family: Robot,sans-serif;
+    margin-left: 15px;
+   
+  }
+  span{
+    color:#A5410F; ;
+    margin-left: 2px;
+  }
+
+ button{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width:400px;
+  height: 90px;;
+  margin:auto;
+  background-color:#A5410F;
+  font-family:Arial;
+  color:#fff;
+  font-size: 20px; 
+
+}
+
+.boxTexto{
+    margin: 60px;
+    margin-bottom: 0px;
+    margin-top: 30px;
+   
+}
+
+#imagemBox{
+  padding: 80px;
+  width: auto;
+}
+body{
+  margin: 10px 100px 10px 100px;
+}
+
+
+
+   
+    
+  
+       
+    
